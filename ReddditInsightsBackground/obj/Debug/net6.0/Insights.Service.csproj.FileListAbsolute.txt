@@ -53,3 +53,4 @@ C:\Users\prakash.aryal\source\repos\ReddditInsightsBackground\obj\Debug\net6.0\r
 C:\Users\prakash.aryal\source\repos\ReddditInsightsBackground\obj\Debug\net6.0\Insights.Service.pdb
 C:\Users\prakash.aryal\source\repos\ReddditInsightsBackground\obj\Debug\net6.0\Insights.Service.genruntimeconfig.cache
 C:\Users\prakash.aryal\source\repos\ReddditInsightsBackground\obj\Debug\net6.0\ref\Insights.Service.dll
+C:\Users\prakash.aryal\source\repos\ReddditInsightsBackground\obj\Debug\net6.0\Insights.Service.sourcelink.json

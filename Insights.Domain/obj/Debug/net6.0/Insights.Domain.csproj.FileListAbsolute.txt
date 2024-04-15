@@ -13,3 +13,4 @@ C:\Users\prakash.aryal\source\repos\Insights.Domain\obj\Debug\net6.0\Insights.Do
 C:\Users\prakash.aryal\source\repos\Insights.Domain\obj\Debug\net6.0\refint\Insights.Domain.dll
 C:\Users\prakash.aryal\source\repos\Insights.Domain\obj\Debug\net6.0\Insights.Domain.pdb
 C:\Users\prakash.aryal\source\repos\Insights.Domain\obj\Debug\net6.0\ref\Insights.Domain.dll
+C:\Users\prakash.aryal\source\repos\Insights.Domain\obj\Debug\net6.0\Insights.Domain.sourcelink.json

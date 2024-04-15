@@ -10,3 +10,4 @@ C:\Users\prakash.aryal\source\repos\Insights.Repository\obj\Debug\net6.0\Insight
 C:\Users\prakash.aryal\source\repos\Insights.Repository\obj\Debug\net6.0\refint\Insights.Repository.dll
 C:\Users\prakash.aryal\source\repos\Insights.Repository\obj\Debug\net6.0\Insights.Repository.pdb
 C:\Users\prakash.aryal\source\repos\Insights.Repository\obj\Debug\net6.0\ref\Insights.Repository.dll
+C:\Users\prakash.aryal\source\repos\Insights.Repository\obj\Debug\net6.0\Insights.Repository.sourcelink.json

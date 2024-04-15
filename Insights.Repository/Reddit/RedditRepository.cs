@@ -1,7 +1,4 @@
-﻿using System;
-using System.Net.Http.Headers;
-using System.Text;
-using Insights.Repository.Auth;
+﻿using Insights.Repository.Auth;
 using Insights.Repository.Models;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
