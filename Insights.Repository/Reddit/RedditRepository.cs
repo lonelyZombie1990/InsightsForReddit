@@ -97,7 +97,7 @@ public class RedditRepository : IDisposable
             Subreddit subreddit = _reddit.Subreddit("funny");
 
             var topPosts = subreddit.Posts.Top;
-            IEnumerable<Reddit.Controllers.Post> postsWithMostUpvotes = topPosts.OrderByDescending(p => p.Score).Take(count);
+            var postsWithMostUpvotes = topPosts.OrderByDescending(p => p.Score).Take(count);
 
             var usersWithMostPosts = topPosts
                 .Select(p => p.Author)
