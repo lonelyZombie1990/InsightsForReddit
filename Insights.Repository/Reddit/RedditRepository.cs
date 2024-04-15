@@ -9,7 +9,7 @@ using Reddit;
 using Reddit.Controllers;
 
 
-namespace Insights.Repository.RedditRepo;
+namespace Insights.Repository.Reddit;
 
 /// <summary>
 /// Repository for Reddit posts.
@@ -45,15 +45,15 @@ public class RedditRepository : IDisposable
         GC.SuppressFinalize(this);
     }
 
-    public IEnumerable<Models.InsightPost> GetPostsWithMostUpVotes(int count = 10)
+    public IEnumerable<InsightPost> GetPostsWithMostUpVotes(int count = 10)
     {
         try
         {
             _logger.LogInformation("RedditReposity: Get User with Most Up Votes");
-            Subreddit subreddit = _reddit.Subreddit("funny");          
+            Subreddit subreddit = _reddit.Subreddit("funny");
 
             var topPosts = subreddit.Posts.Top;
-            List<Models.InsightPost> postsWithMostUpvotes = topPosts.OrderByDescending(p => p.Score).Take(count).Select(x => new Insights.Repository.Models.InsightPost
+            List<InsightPost> postsWithMostUpvotes = topPosts.OrderByDescending(p => p.Score).Take(count).Select(x => new InsightPost
             {
                 Author = x.Author,
                 UpVotes = x.Score
