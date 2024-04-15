@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Insights.Domain/obj/Debug/net6.0/Insights.Domain.dll
+/Insights.Domain/obj/Debug/net6.0/refint/Insights.Domain.dll
+/Insights.Domain/obj/Debug/net6.0/ref
+*.dll
+*.pdb
