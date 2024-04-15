@@ -18,4 +18,8 @@
   <ItemGroup>
     <ProjectReference Include="..\Insights.Domain\Insights.Domain.csproj" />
   </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Readme\" />
+  </ItemGroup>
 </Project>
