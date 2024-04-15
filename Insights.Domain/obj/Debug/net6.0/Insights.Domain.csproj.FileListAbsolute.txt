@@ -1,0 +1,15 @@
+C:\Users\prakash.aryal\source\repos\Insights.Domain\bin\Debug\net6.0\Insights.Domain.deps.json
+C:\Users\prakash.aryal\source\repos\Insights.Domain\bin\Debug\net6.0\Insights.Domain.dll
+C:\Users\prakash.aryal\source\repos\Insights.Domain\bin\Debug\net6.0\Insights.Domain.pdb
+C:\Users\prakash.aryal\source\repos\Insights.Domain\bin\Debug\net6.0\Insights.Repository.dll
+C:\Users\prakash.aryal\source\repos\Insights.Domain\bin\Debug\net6.0\Insights.Repository.pdb
+C:\Users\prakash.aryal\source\repos\Insights.Domain\obj\Debug\net6.0\Insights.Domain.csproj.AssemblyReference.cache
+C:\Users\prakash.aryal\source\repos\Insights.Domain\obj\Debug\net6.0\Insights.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prakash.aryal\source\repos\Insights.Domain\obj\Debug\net6.0\Insights.Domain.AssemblyInfoInputs.cache
+C:\Users\prakash.aryal\source\repos\Insights.Domain\obj\Debug\net6.0\Insights.Domain.AssemblyInfo.cs
+C:\Users\prakash.aryal\source\repos\Insights.Domain\obj\Debug\net6.0\Insights.Domain.csproj.CoreCompileInputs.cache
+C:\Users\prakash.aryal\source\repos\Insights.Domain\obj\Debug\net6.0\Insights.Domain.csproj.CopyComplete
+C:\Users\prakash.aryal\source\repos\Insights.Domain\obj\Debug\net6.0\Insights.Domain.dll
+C:\Users\prakash.aryal\source\repos\Insights.Domain\obj\Debug\net6.0\refint\Insights.Domain.dll
+C:\Users\prakash.aryal\source\repos\Insights.Domain\obj\Debug\net6.0\Insights.Domain.pdb
+C:\Users\prakash.aryal\source\repos\Insights.Domain\obj\Debug\net6.0\ref\Insights.Domain.dll

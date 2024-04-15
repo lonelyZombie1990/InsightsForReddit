@@ -1,0 +1,12 @@
+C:\Users\prakash.aryal\source\repos\Insights.Repository\obj\Debug\net6.0\Insights.Repository.csproj.AssemblyReference.cache
+C:\Users\prakash.aryal\source\repos\Insights.Repository\obj\Debug\net6.0\Insights.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prakash.aryal\source\repos\Insights.Repository\obj\Debug\net6.0\Insights.Repository.AssemblyInfoInputs.cache
+C:\Users\prakash.aryal\source\repos\Insights.Repository\obj\Debug\net6.0\Insights.Repository.AssemblyInfo.cs
+C:\Users\prakash.aryal\source\repos\Insights.Repository\obj\Debug\net6.0\Insights.Repository.csproj.CoreCompileInputs.cache
+C:\Users\prakash.aryal\source\repos\Insights.Repository\bin\Debug\net6.0\Insights.Repository.deps.json
+C:\Users\prakash.aryal\source\repos\Insights.Repository\bin\Debug\net6.0\Insights.Repository.dll
+C:\Users\prakash.aryal\source\repos\Insights.Repository\bin\Debug\net6.0\Insights.Repository.pdb
+C:\Users\prakash.aryal\source\repos\Insights.Repository\obj\Debug\net6.0\Insights.Repository.dll
+C:\Users\prakash.aryal\source\repos\Insights.Repository\obj\Debug\net6.0\refint\Insights.Repository.dll
+C:\Users\prakash.aryal\source\repos\Insights.Repository\obj\Debug\net6.0\Insights.Repository.pdb
+C:\Users\prakash.aryal\source\repos\Insights.Repository\obj\Debug\net6.0\ref\Insights.Repository.dll
